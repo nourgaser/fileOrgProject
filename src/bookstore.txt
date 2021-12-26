@@ -1,0 +1,5 @@
+CTS,Harry Potter,J.K. Rowling,60.000000,13
+HMB,Game of Thrones,George R. R. Martin,45.000000,37
+DOA,Burning Midnight,Will McIntosh,35.990002,7
+SJI,Lord of the Rings,J. R. R. Tolkien,25.990000,5
+CHA,Lord of the Flies,William Golding,39.990002,5
